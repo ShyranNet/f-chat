@@ -1,6 +1,6 @@
 # Flutter Chat app
 
-Simple chat app to demonstrate the realtime capability of Supabase with Flutter.
+Chat app with realtime messaging capabilities, done using Supabase and Flutter. 
 
 ## SQL
 
