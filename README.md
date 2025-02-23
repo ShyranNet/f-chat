@@ -1,4 +1,4 @@
-# Flutter Chat Example
+# Flutter Chat app
 
 Simple chat app to demonstrate the realtime capability of Supabase with Flutter.
 
