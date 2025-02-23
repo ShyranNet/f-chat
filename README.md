@@ -1,4 +1,4 @@
-# Flutter Chat app
+# Flutter Chat app 
 
 Chat app with realtime messaging capabilities, done using Supabase and Flutter. 
 
